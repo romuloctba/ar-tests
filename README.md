@@ -1,3 +1,6 @@
+## DEMOS
+[aframe/demos/demo-aframe-logo](./aframe/demos/demo-aframe-logo/aframe-logo-model.html)
+
 # AR.js - Augmented Reality for the Web
 
 [![Augmented Website](https://user-images.githubusercontent.com/252962/27472386-0d11e59a-57f3-11e7-9fa5-34332c5484f7.png)](https://github.com/jeromeetienne/AR.js)
